@@ -1,0 +1,17 @@
+
+.comic-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.comic-panel {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+button{
+    color: aliceblue;
+    background-color: green;
+    
+}
